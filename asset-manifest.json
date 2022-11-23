@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ericportfolioapp/static/css/main.ce52fc33.css",
+    "main.js": "/ericportfolioapp/static/js/main.68057fd2.js",
+    "index.html": "/ericportfolioapp/index.html",
+    "main.ce52fc33.css.map": "/ericportfolioapp/static/css/main.ce52fc33.css.map",
+    "main.68057fd2.js.map": "/ericportfolioapp/static/js/main.68057fd2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce52fc33.css",
+    "static/js/main.68057fd2.js"
+  ]
+}
