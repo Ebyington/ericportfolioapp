@@ -1,13 +1,16 @@
 {
   "files": {
     "main.css": "/ericportfolioapp/static/css/main.ce52fc33.css",
-    "main.js": "/ericportfolioapp/static/js/main.68057fd2.js",
+    "main.js": "/ericportfolioapp/static/js/main.ccbac497.js",
+    "static/media/prework.png": "/ericportfolioapp/static/media/prework.a71161f0530474378d01.png",
+    "static/media/DND.png": "/ericportfolioapp/static/media/DND.f71c970bf96449a24d4d.png",
+    "static/media/viennapictures.png": "/ericportfolioapp/static/media/viennapictures.b51e428fc0983426aadc.png",
     "index.html": "/ericportfolioapp/index.html",
     "main.ce52fc33.css.map": "/ericportfolioapp/static/css/main.ce52fc33.css.map",
-    "main.68057fd2.js.map": "/ericportfolioapp/static/js/main.68057fd2.js.map"
+    "main.ccbac497.js.map": "/ericportfolioapp/static/js/main.ccbac497.js.map"
   },
   "entrypoints": [
     "static/css/main.ce52fc33.css",
-    "static/js/main.68057fd2.js"
+    "static/js/main.ccbac497.js"
   ]
 }
