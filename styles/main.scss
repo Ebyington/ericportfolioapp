@@ -1,0 +1,5 @@
+@import 'config';
+
+html{
+    color: set-text-color($secondary-color);
+    background: linear-gradient(to left, #333, #333 50%, #eee 75%, #333 75%);}
