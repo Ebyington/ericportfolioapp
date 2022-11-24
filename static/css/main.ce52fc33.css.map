@@ -1,1 +1,0 @@
-{"version":3,"file":"static/css/main.ce52fc33.css","mappings":"AAAA,KAEE,mEACF","sources":["css/main.css"],"sourcesContent":["html {\n  /* color: set-text-color(#BF8DE5); */\n  background: linear-gradient(to left, #000, #000 50%, #BF8DE5 75%, #333 75%);\n}\n"],"names":[],"sourceRoot":""}
