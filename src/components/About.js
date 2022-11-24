@@ -4,10 +4,10 @@ import '../css/main.css';
 export default function About() {
     return (
         <div className="about">
-        <a> About Me </a>
+        
+        <img src={require("../images/lp_image.jpeg")} width="20%"  />
         <p>
-          Eric is a young creative mind from Rochester, New York. He enjoys food
-          and long walks on the beach.
+          Eric is a young creative mind from Rochester, New York. He loves cooking, movies, music, and spending time with his girlfriend Rachel.
         </p>
       </div>
     )
